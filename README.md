@@ -1,2 +1,2 @@
-# odin-recipes
-This project will use HTML and CSS knowledge.
+# Odin-Recipes
+A recipe web page to demonstrate the knowledge acquired from The Odin Project.
